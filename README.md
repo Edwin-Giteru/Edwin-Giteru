@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Edwin-Giteru
 - 👀 I’m interested in cybersecurity and web development
-- 🌱 I’m currently a python and flask framework for backend developer
+- 🌱 I’m currently a python and flask framework backend developer
 - 📫 reach me through my email egiteru5@gmail.com
 
 
