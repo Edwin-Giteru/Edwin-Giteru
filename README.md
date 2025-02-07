@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @Edwin-Giteru
-- 👀 I’m interested in cybersecurity and web development
-- 🌱 I’m currently a python and flask framework backend developer
-- 📫 reach me through my email egiteru5@gmail.com
+👋 Hey there! I'm Edwin Giteru
+🚀 Computer Science Student | Backend Developer | Tech Enthusiast
 
+💡 Passionate about building scalable web applications and efficient database systems.
+🛠️ Skilled in Python (Flask, SQLAlchemy ORM), JavaScript, and Backend Development.
+💼 Currently working on integrating Flask & SQLAlchemy for backend operations.
 
-<!---
-Edwin-Giteru/Edwin-Giteru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔧 Tech Stack
+Languages: Python, JavaScript
+Frameworks & Tools: Flask, SQLAlchemy,
+Version Control: Git & GitHub
+📌 Projects I'm Working On
+📊 Database Management – Optimizing data storage and retrieval
+📫 Let's Connect!
+🔗 LinkedIn: [Your LinkedIn Profile]
+🐙 GitHub: github.com/Edwin-Giteru
