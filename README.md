@@ -12,7 +12,5 @@ Version Control: Git & GitHub
 📌 Projects I'm Working On
 📊 Database Management – Optimizing data storage and retrieval
 📫 Let's Connect!
-🔗 LinkedIn: [www.linkedin.com/in/
-edwin-giteru-4773a7306
-]
+🔗 LinkedIn: [www.linkedin.com/in/edwin-giteru-4773a7306]
 🐙 GitHub: github.com/Edwin-Giteru
