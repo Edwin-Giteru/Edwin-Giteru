@@ -1,5 +1,6 @@
 # 💫 About Me:
-👋 Hey there! I'm Edwin Giteru 🚀 Computer Science Student | Backend Developer | Tech Enthusiast<br><br>💡 Passionate about building scalable web applications and efficient database systems. 🛠️ Skilled in Python (Flask, SQLAlchemy ORM), JavaScript, and Backend Development. 💼 Currently working on integrating Flask & SQLAlchemy for backend operations.<br><br>🔧 Tech Stack Languages: Python, JavaScript Frameworks & Tools: Flask, SQLAlchemy, Version Control: Git & GitHub 📌 Projects I'm Working On 📊 Database Management – Optimizing data storage and retrieval 📫 Let's Connect! 🔗 LinkedIn: [www.linkedin.com/in/edwin-giteru-4773a7306] 🐙 GitHub: github.com/Edwin-Giteru<br><br>￼<br>Customize your pins<br>
+👋 Hey there! I'm Edwin Giteru 🚀 Computer Science Student | Backend Developer | Tech Enthusiast<br><br>
+ I have experience working with Flask, Node.js (Express), MongoDB, Redis, and SQLAlchemy. My focus is on building efficient and scalable backend systems, including REST APIs. I enjoy solving technical challenges and continuously improving my programming skills.
 
 
 ## 🌐 Socials:
