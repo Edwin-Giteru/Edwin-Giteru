@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a passionate backend developer with foundations in software engineering principles, database Management,<br>RestFUL APIs relevant  building scalable and efficient backend applications.<br><br>I'm currently working on an E-commerce project using Python(FastAPI), SQLAlchemy orm and MYSQL<br>database and comfortable with Nodejs and Javascript.<br><br>My joy is solving real world problems  using code.
+I'm a passionate backend developer with foundations in software engineering principles, database Management,<br>RestFUL APIs relevant  for building scalable and efficient backend applications.<br><br>I'm currently working on an E-commerce project using Python(FastAPI), SQLAlchemy orm and MYSQL<br>database and comfortable with Nodejs and Javascript.<br><br>My joy is solving real world problems  using code.
 
 
 ## 🌐 Socials:
